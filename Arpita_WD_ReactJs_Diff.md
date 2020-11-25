@@ -11,4 +11,4 @@
 | *Used by* | Google, Wix | Facebook, Uber | Alibaba, GitLab |
 | *Sizes of the libraries* | Depends on the bundle size produced | 116 KB | 91 KB |
 | *Syntax* | TypeScript and splits HTML + TypeScript logic apart | JavaScript and a feature called “JSX” | regular JavaScript and splits HTML + JavaScript logic apart |
-![vuejs logo]()
+

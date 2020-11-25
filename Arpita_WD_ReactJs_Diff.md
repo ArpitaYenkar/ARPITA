@@ -1,4 +1,4 @@
-| Angular | Angular | React | Vue
+|  | Angular | React | Vue
 | ----------- | ----------- | ----------- | -----------
-| Header | Title | dwlh | dwlh |
+| Initial release | 2010 | 2013 | 2014 |
 | Paragraph | Text | dsdd | dwlh |

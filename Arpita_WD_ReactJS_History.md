@@ -3,6 +3,7 @@
 
 ## There are some Front-end Library's History:
 <img src="https://miro.medium.com/max/700/1*Q2t-jgIzVx_w1Cyy1YlbNw.png" width="500px" >
+
 1. **jQuery**:
     - jQuery is the most widely used JavaScript library in the world.Initial version of jQuery is developed by John Resig in 2005 and Officially annouced at an event called BarCampNYC in 2006.
     - In 2011, the jQuery team formally created the jQuery Board. In 2012, the jQuery Board formed the jQuery Foundation.In 2015, the jQuery Foundation merged with the Dojo Foundation to form the JS Foundation, which then merged with the Node.js Foundation in 2019 to form the OpenJS Foundation.

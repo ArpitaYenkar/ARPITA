@@ -3,7 +3,8 @@
 # History of Front-end Libraries.
 
 
-1. **jquery**.
+1. **JQuery**.
+    John Resig developed the initial version of jQuery in 2005 and released it in 2006 at an event called BarCampNYC.
 2. react.js.
 3. AOS – Animate On Scroll.
 4. Algolia Places.

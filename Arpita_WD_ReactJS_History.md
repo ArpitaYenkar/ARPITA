@@ -3,7 +3,7 @@
 # History of Front-end Libraries.
 
 
-1. jquery.
+1. **jquery**.
 2. react.js.
 3. AOS – Animate On Scroll.
 4. Algolia Places.

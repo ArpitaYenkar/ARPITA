@@ -1,6 +1,6 @@
 |  | Angular | React | Vue
 | ----------- | ----------- | ----------- | -----------
-| | ![alt text](https://github.com/angular/angular.js/tree/master/images/logo) | 2013 | 2014 |
+| | ![alt text](https://raw.githubusercontent.com/angular/angular.js/master/images/logo/AngularJS-Shield.exports/AngularJS-Shield-small.png) | 2013 | 2014 |
 | *Initial release* | 2010 | 2013 | 2014 |
 | *Official site* | 	[angular.io](https://angular.io/) | [reactjs.org](https://reactjs.org/) | [vuejs.org](https://vuejs.org/) |
 | *Approx. size (KB)* | 500 | 100 | 80 |

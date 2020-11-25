@@ -1,4 +1,4 @@
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Angular | React | Vue
+| ----------- | ----------- | -----------
+| Header | Title | dwlh |
+| Paragraph | Text | dsdd |

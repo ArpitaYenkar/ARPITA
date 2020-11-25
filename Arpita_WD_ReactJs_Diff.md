@@ -1,6 +1,6 @@
 |  | Angular | React | Vue
 | ----------- | ----------- | ----------- | -----------
-| | ![alt text](https://raw.githubusercontent.com/angular/angular.js/master/images/logo/AngularJS-Shield.exports/AngularJS-Shield-small.png) | ![alt text](https://raw.githubusercontent.com/facebook/create-react-app/master/docusaurus/website/static/img/favicon/favicon.ico) | 2014 |
+| | ![angularjs logo](https://raw.githubusercontent.com/angular/angular.js/master/images/logo/AngularJS-Shield.exports/AngularJS-Shield-small.png) | ![reactjs logo](https://raw.githubusercontent.com/facebook/create-react-app/master/docusaurus/website/static/img/favicon/favicon.ico) | ![vuejs logo](https://raw.githubusercontent.com/vuejs/art/9f8ee218d32b52c2d150212f22798a7a61689361/logo.png) |
 | *Initial release* | 2010 | 2013 | 2014 |
 | *Official site* | 	[angular.io](https://angular.io/) | [reactjs.org](https://reactjs.org/) | [vuejs.org](https://vuejs.org/) |
 | *Approx. size (KB)* | 500 | 100 | 80 |

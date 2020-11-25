@@ -2,7 +2,7 @@
 # History of Front-end Libraries.
 
 ## There are some Front-end Library's History:
-<img src="https://miro.medium.com/max/700/1*Q2t-jgIzVx_w1Cyy1YlbNw.png" width="300px">
+<img src="https://miro.medium.com/max/700/1*Q2t-jgIzVx_w1Cyy1YlbNw.png" width="500px">
 
 ![alt text](https://miro.medium.com/max/700/1*Q2t-jgIzVx_w1Cyy1YlbNw.png)
 1. **jQuery**:

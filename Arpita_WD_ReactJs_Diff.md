@@ -6,9 +6,14 @@
 
 - **AngularJS**: 
      - AngularJS is a JavaScript based open-source framework.
-      1 . AngularJS is a JavaScript based open-source framework.
-- **ReactJS**: 1. ReactJS is a component-based library which is used to develop interactive UI's(User Interfaces).
-- **VueJS**: 1. VueJS is a progressive framework JavaScript framework for building user interfaces.
+     - Application Type: Modern web development and native-rendered apps.
+     - 
+- **ReactJS**: 
+     - ReactJS is a component-based library which is used to develop interactive UI's(User Interfaces).
+     - Application Type: Native apps,hybrid apps,web apps.
+- **VueJS**: 
+     - VueJS is a progressive framework JavaScript framework for building user interfaces.
+     - Application Type: Advanced SPA and Native apps.
 
 
 |  | AngularJS | ReactJS | VueJS

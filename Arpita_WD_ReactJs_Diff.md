@@ -9,6 +9,6 @@
 | *Current version* | 9 | 16.x | 2.6.x |
 | *Approx. size (KB)* | 500 | 100 | 80 |
 | *Syntax* | TypeScript and splits HTML + TypeScript logic apart | JavaScript and a feature called “JSX” | regular JavaScript and splits HTML + JavaScript logic apart |
-| *Official site* | 	[angular.io](https://angular.io/) | [reactjs.org](https://reactjs.org/) | [vuejs.org](https://vuejs.org/) |
 | *Used by* | Google, Wix | Facebook, Uber | Alibaba, GitLab |
 | *Sizes of the libraries* | Depends on the bundle size produced | 116 KB | 91 KB |
+| *Official site* | 	[angular.io](https://angular.io/) | [reactjs.org](https://reactjs.org/) | [vuejs.org](https://vuejs.org/) |

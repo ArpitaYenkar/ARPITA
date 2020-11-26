@@ -12,3 +12,5 @@
 | *Used by* | Google, Wix | Facebook, Uber | Alibaba, GitLab |
 | *Sizes of the libraries* | Depends on the bundle size produced | 116 KB | 91 KB |
 | *Official site* | 	[angular.io](https://angular.io/) | [reactjs.org](https://reactjs.org/) | [vuejs.org](https://vuejs.org/) |
+
+### Various Difference between AngularJS, ReactJS, and VueJS.

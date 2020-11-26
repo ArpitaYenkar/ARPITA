@@ -4,9 +4,10 @@
 
 ### Various Difference between AngularJS, ReactJS, and VueJS.
 
-- **AngularJS**: AngularJS is a JavaScript based open-source framework.
-- **ReactJS**: ReactJS is a component-based library which is used to develop interactive UI's(User Interfaces).
-- **VueJS**: VueJS is a progressive framework JavaScript framework for building user interfaces.
+- **AngularJS**: 1. AngularJS is a JavaScript based open-source framework.
+                 2. AngularJS is a JavaScript based open-source framework.
+- **ReactJS**: 1. ReactJS is a component-based library which is used to develop interactive UI's(User Interfaces).
+- **VueJS**: 1. VueJS is a progressive framework JavaScript framework for building user interfaces.
 
 
 |  | AngularJS | ReactJS | VueJS

@@ -7,13 +7,18 @@
 - **AngularJS**: 
      - AngularJS is a JavaScript based open-source framework.
      - Application Type: Modern web development and native-rendered apps.
-     - 
+     - Document Object Model (DOM):It uses Real DOM.
+     - Data Flow: Two Directional.
 - **ReactJS**: 
      - ReactJS is a component-based library which is used to develop interactive UI's(User Interfaces).
      - Application Type: Native apps,hybrid apps,web apps.
+     - Document Object Model (DOM):It uses Virtual DOM.
+     - Data Flow: One Directional.
 - **VueJS**: 
      - VueJS is a progressive framework JavaScript framework for building user interfaces.
      - Application Type: Advanced SPA and Native apps.
+     - Document Object Model (DOM):It uses Virtual DOM.
+     - Data Flow: One Directional.
 
 
 |  | AngularJS | ReactJS | VueJS

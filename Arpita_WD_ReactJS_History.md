@@ -2,7 +2,7 @@
 # History of Front-end Libraries.
 
 ## There are some Front-end Library's History:
-<img src="https://miro.medium.com/max/700/1*Q2t-jgIzVx_w1Cyy1YlbNw.png" width="500px" >
+<img src="https://miro.medium.com/max/700/1*Q2t-jgIzVx_w1Cyy1YlbNw.png" width="500px"  align="center" >
 
 1. **jQuery**:
     - jQuery is the most widely used JavaScript library in the world.Initial version of jQuery is developed by John Resig in 2005 and Officially annouced at an event called BarCampNYC in 2006.
